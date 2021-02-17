@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "doc",
+      "title": "Doc",
+      "id": "25n2loeoe",
+      "children": []
+    },
+    {
+      "type": "link",
       "key": "features",
       "slug": "features",
       "title": "Operating Systems",
