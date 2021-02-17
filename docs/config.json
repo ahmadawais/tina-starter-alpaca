@@ -2,15 +2,6 @@
   "config": [
     {
       "type": "link",
-      "key": "getting-started",
-      "slug": "getting-started",
-      "title": "Tina Alpaca",
-      "position": 0,
-      "id": "1",
-      "children": []
-    },
-    {
-      "type": "link",
       "key": "features",
       "slug": "features",
       "title": "Operating Systems",
@@ -70,6 +61,15 @@
           "children": []
         }
       ]
+    },
+    {
+      "type": "link",
+      "key": "getting-started",
+      "slug": "getting-started",
+      "title": "Tina Alpaca",
+      "position": 0,
+      "id": "1",
+      "children": []
     },
     {
       "type": "link",
